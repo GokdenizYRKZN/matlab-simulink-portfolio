@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+# Simulink / MATLAB generated files
+slprj/
+*.slxc
+*.asv
+*.autosave
+*.mexw64
+*_grt_rtw/
+*_ert_rtw/
